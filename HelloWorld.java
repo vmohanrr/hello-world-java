@@ -43,5 +43,7 @@ public class HelloWorld {
     System.out.println("Hi covid19");
     System.out.println("Hi covid19");
     System.out.println("Hi covid19");
+    System.out.println("Hi covid19");
+    System.out.println("Goooooooo Corona");
   }
 }
