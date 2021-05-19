@@ -36,14 +36,8 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
     System.out.println("Hello, DevOps");
-    System.out.println("Hi Corona");
-    System.out.println("Hi covid19");
-    System.out.println("Hi covid19");
-    System.out.println("Hi covid19");
-    System.out.println("Hi covid19");
-    System.out.println("Hi covid19");
-    System.out.println("Hi covid19");
-    System.out.println("Hi covid19");
+    System.out.println("Hi Ram");
+    System.out.println("Hi Mohan");
     System.out.println("Goooooooo Corona");
   }
 }
